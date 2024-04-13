@@ -1,0 +1,28 @@
+body {
+    background-color: #9cbbf9;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.title {
+    text-decoration: underline;
+    font-size: x-large;
+    position: absolute;
+    font-family: cursive;
+    color: #6f5626;
+}
+
+.mediums {
+    font-size: larger;
+    font-family: cursive;
+}
+
+.girlypearl {
+    border-style:groove;
+    border-width:1cm;
+    border-color: rgb(179, 183, 193);
+}
+
+.paragraph {
+    font-size: medium;
+    padding-right: 35%;
+}
